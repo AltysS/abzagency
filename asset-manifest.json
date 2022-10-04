@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abzagency/static/css/main.ac0e9cb9.css",
+    "main.js": "/abzagency/static/js/main.4a53564f.js",
+    "static/media/main__logo.png": "/abzagency/static/media/main__logo.b1ec0c0f86d0a6552d1a.png",
+    "static/media/emptyAvatar.svg": "/abzagency/static/media/emptyAvatar.079538ce28002151ca88305ac2efcd38.svg",
+    "index.html": "/abzagency/index.html",
+    "main.ac0e9cb9.css.map": "/abzagency/static/css/main.ac0e9cb9.css.map",
+    "main.4a53564f.js.map": "/abzagency/static/js/main.4a53564f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac0e9cb9.css",
+    "static/js/main.4a53564f.js"
+  ]
+}
